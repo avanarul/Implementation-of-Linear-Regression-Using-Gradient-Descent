@@ -65,3 +65,7 @@ plt.show()
 ## Output:
 <img width="747" height="297" alt="Screenshot 2026-01-30 144729" src="https://github.com/user-attachments/assets/42b0354c-5e70-447f-b153-cdd5cdbd841f" />
 <img width="411" height="47" alt="Screenshot 2026-01-30 144803" src="https://github.com/user-attachments/assets/f707f255-d373-4874-94bc-56635173da9e" />
+
+## Result:
+Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+
