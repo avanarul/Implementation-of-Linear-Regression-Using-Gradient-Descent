@@ -12,9 +12,15 @@ To write a program to predict the profit of a city using the linear regression m
 2.Write a function compute Cost to generate the cost function.
 3.Perform iterations of gradient steps with learning rate.
 4.Plot the Cost function using Gradient Descent and generate the required graph.
- 
 
 ## Program:
+```
+/*
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: S AVAN ARUL
+RegisterNumber: 212225040036
+*/
+```
 ```
 import pandas as pd
 import numpy as np
